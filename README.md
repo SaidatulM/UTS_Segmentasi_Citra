@@ -1,0 +1,1 @@
+# UTS_Segmentasi_Citra
